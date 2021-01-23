@@ -1,0 +1,2 @@
+D:\编程\CPixel coordinates\x64\Debug\CPixel coordinates.exe
+D:\编程\CPixel coordinates\x64\Debug\CPixel coordinates.pdb
